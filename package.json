@@ -1,0 +1,27 @@
+{
+  "name": "wp-mdashbaord",
+  "version": "1.0.0",
+  "description": "Wordpress Minimal dashboard using Electron JS",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harshnagarkar/Minimal-Wordpress-Dashboard-ElectronJS-.git"
+  },
+  "keywords": [
+    "Wordpress",
+    "Dashboard",
+    "wp-mdashboard"
+  ],
+  "author": "Harsh Nagarkar",
+  "license": "(GPL-3.0)",
+  "bugs": {
+    "url": "https://github.com/harshnagarkar/Minimal-Wordpress-Dashboard-ElectronJS-/issues"
+  },
+  "homepage": "https://github.com/harshnagarkar/Minimal-Wordpress-Dashboard-ElectronJS-#readme",
+  "devDependencies": {
+    "electron": "^6.0.2"
+  }
+}
