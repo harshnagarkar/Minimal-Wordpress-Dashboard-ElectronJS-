@@ -26,6 +26,7 @@
   },
   "dependencies": {
     "asar": "^2.0.1",
+    "electron-json-storage": "^4.1.7",
     "electron-packager": "^14.0.4"
   }
 }
