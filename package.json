@@ -25,6 +25,7 @@
     "electron": "^6.0.2"
   },
   "dependencies": {
-    "asar": "^2.0.1"
+    "asar": "^2.0.1",
+    "electron-packager": "^14.0.4"
   }
 }

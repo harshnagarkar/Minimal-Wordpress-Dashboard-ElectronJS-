@@ -8,7 +8,7 @@ function createWindow() {
             nodeIntegration: true
         }
     })
-    win.loadURL('http://diysuniverse.com')
+    win.loadURL('http://diysuniverse.com/wp-admin')
     contents = win.webContents
     console.log(contents)
 
