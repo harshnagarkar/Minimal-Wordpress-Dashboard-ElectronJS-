@@ -1,4 +1,7 @@
 # Minimal-Wordpress-Dashboard-ElectronJS-
+[![License: LGPL v3](https://img.shields.io/badge/License-LGPL%20v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0)
+[![Generic badge](https://img.shields.io/badge/Developement-InProgess-<COLOR>.svg)](https://shields.io/)
+
 Using electron JS minimal browser to access WordPress dashboard.
 The recent WP Desktop app might be good, but the calypso layout is not as userfriendlyand misses plugin options like SEO which are very important. Also wordpress being open source should not force us to download, install and give access to propritery jetpack plugin to use the app.
 
