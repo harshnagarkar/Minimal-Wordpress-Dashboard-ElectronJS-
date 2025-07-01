@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/harshnagarkar/Minimal-Wordpress-Dashboard-ElectronJS-#readme",
   "devDependencies": {
-    "electron": "^6.0.2"
+    "electron": "^28.3.2"
   },
   "dependencies": {
     "asar": "^2.0.1",
